@@ -3,7 +3,7 @@ from time import sleep
 
 
 class App:
-    def __init__(self,username='m.a.n.u.m.a.n.o.j', password='321Password.com', target_username='m.a.n.u.m.a.n.o.j', path='C:/personal/photos'):
+    def __init__(self,username='', password='', target_username='', path=''):
         self.username=username
         self.password=password
         self.target_username=target_username
